@@ -1,0 +1,8 @@
+backend/models/image_domain/
+backend/models/image_ethics/
+backend/models/image_generation/
+backend/models/prompt_generator/
+backend/models/text_domain/
+backend/models/text_ethics/
+
+dataset/
